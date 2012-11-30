@@ -1,0 +1,32 @@
+\docType{data}
+\name{tophitters2001}
+\alias{tophitters2001}
+\title{Batting averages of the top hitters in Major League Baseball in 2001}
+\source{
+  \url{http://www.baseball-databank.org/}.
+}
+\description{
+  Batting statistics for the top 144 hitters in Major
+  League Baseball in 2001.
+}
+\section{Variables}{
+  Variables: \itemize{ \item id: Unique player id \item
+  first: First name \item last: Last name \item name: Full
+  name (first and last) \item year: Year of data \item
+  stint \item team: Abbreviation of team played for \item
+  lg: League (American League or National League) \item g:
+  Number of games \item ab: Number of times at bat \item r:
+  Number of runs \item h: Number of hits (times reached
+  base because of a batted, fair ball without error by the
+  defense) \item 2b: Hits on which the batter reached
+  second base safely \item 3b: Hits on which the batter
+  reached third base safely \item hr: Number of home runs
+  \item rbi: Runs batted in \item sb: Stolen bases \item
+  cs: Caught stealing \item bb: Base on balls (walk) \item
+  so: Strike outs \item ibb: Intentional base on balls
+  \item hbp: Hits by pitch \item sh: Sacrifice hits \item
+  sf: Sacrifice flies \item gidp: Ground into double-play
+  \item avg: Batting average (hits divided by at-bats) }
+}
+\keyword{datasets}
+

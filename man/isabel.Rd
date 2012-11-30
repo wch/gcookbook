@@ -1,0 +1,27 @@
+\docType{data}
+\name{isabel}
+\alias{isabel}
+\title{Data from simulation of hurricane Isabel}
+\source{
+  \url{http://vis.computer.org/vis2004contest/data.html}
+
+  \url{http://ncar.ucar.edu/}
+}
+\description{
+  This data is from a simulation of hurricane Isabel in
+  2003. It includes temperature and wind data for a 2139km
+  (east-west) x 2004km (north-south) x 19.8km (vertical)
+  volume. The simluation data is from the National Center
+  for Atmospheric Research, and it was used in the IEEE
+  Visualization 2004 Contest.
+}
+\section{Variables}{
+  \itemize{ \item x: Latitude (x coordinate).  \item y:
+  Longitude (y coordinate).  \item z: Height in km (z
+  coordinate).  \item vx: x wind component in m/s \item vy:
+  y wind component in m/s \item vz: z wind component in m/s
+  \item t: Temperature in Celcius \item speed: wind speed,
+  sqrt(vx^2 + vy^2 + vz^2) }
+}
+\keyword{datasets}
+
