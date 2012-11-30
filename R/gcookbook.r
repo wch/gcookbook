@@ -53,6 +53,21 @@ NULL
 NULL
 
 
+#' Summary of cabbages data set
+#'
+#' This data set has groupwise means, standard deviations, counts, and standard
+#' error of the mean for the \code{\link{cabbages}} data set from the MASS
+#' package. The purpose of this summarized data set is to make it easy to use
+#' for example graphs.
+#'
+#' @docType data
+#' @name cabbage_exp
+#' @usage cabbage_exp
+#'
+#' @seealso The source data set in the MASS package, \code{\link{cabbages}}.
+NULL
+
+
 #' Global climate temperature anomaly data from 1800 to 2011 
 #'
 #' This data set includes estimated global temperature anamoly data for the
