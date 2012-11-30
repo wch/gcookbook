@@ -338,8 +338,8 @@ NULL
 #' }
 #'
 #' @docType data
-#' @name plum
-#' @usage plum
+#' @name plum_wide
+#' @usage plum_wide
 #'
 #' @seealso This data frame is in "wide" format. See \code{\link{plum}} for
 #'   the same data in "long" format.

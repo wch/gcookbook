@@ -1,7 +1,7 @@
 \docType{data}
-\name{plum}
-\alias{plum}
-\title{Plum root cuttings (long format)}
+\name{plum_wide}
+\alias{plum_wide}
+\title{Plum root cuttings (wide format)}
 \source{
   Hand, D.J., Daly, F., Lunn, A.D., McConway, K.J. &
   Ostrowski, E. (1994), \emph{A Handbook of Small Data
@@ -18,13 +18,13 @@
 }
 \section{Variables}{
   \itemize{ \item length: Cutting length.  \item time:
-  Planting time.  \item survival: Survival status.  \item
-  count: Number of plants. }
+  Planting time.  \item dead: Number of dead plants in this
+  condition.  \item alive: Number of alive plants in this
+  condition. }
 }
 \seealso{
-  This data frame is in "long" format. See
-  \code{\link{plum_wide}} for the same data in "wide"
-  format.
+  This data frame is in "wide" format. See
+  \code{\link{plum}} for the same data in "long" format.
 }
 \keyword{datasets}
 
