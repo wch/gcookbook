@@ -1,16 +1,18 @@
 Package: gcookbook
 Type: Package
 Title: Data for "R Graphics Cookbook"
-Version: 0.1.0
+Version: 0.9
 Author: Winston Chang
 Maintainer: Winston Chang <xxxx@gmail.com>
-Description: This package contains data sets used as examples in the
-    book "R Graphics Cookbook" from O'Reilly Media. For more
-    information on this book, see
-    http://oreilly.com/catalog/XXXXXXX/
-License: 
+Description: This package contains data sets used in the book "R Graphics
+    Cookbook" by Winston Chang, published by O'Reilly Media.
+License: GPL-2
 LazyData: yes
 Depends:
     R (>= 2.10)
+Suggests:
+    ggplot2,
+    plyr,
+    MASS
 Collate:
-    ''
+    'gcookbook.r'
