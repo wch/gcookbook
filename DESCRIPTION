@@ -1,9 +1,9 @@
 Package: gcookbook
 Type: Package
 Title: Data for "R Graphics Cookbook"
-Version: 0.9
+Version: 1.0
 Author: Winston Chang
-Maintainer: Winston Chang <xxxx@gmail.com>
+Maintainer: Winston Chang <winston@stdout.org>
 Description: This package contains data sets used in the book "R Graphics
     Cookbook" by Winston Chang, published by O'Reilly Media.
 License: GPL-2
