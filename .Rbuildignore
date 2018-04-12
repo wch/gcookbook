@@ -1,3 +1,5 @@
 gcookbook.sublime-project
 gcookbook.sublime-workspace
 orig
+^gcookbook\.Rproj$
+^\.Rproj\.user$
