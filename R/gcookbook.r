@@ -521,3 +521,20 @@ NULL
 #' @name worldpop
 #' @usage worldpop
 NULL
+
+
+#' Summarized ToothGrowth data
+#'
+#' @section Variables:
+#' \itemize{
+#'   \item supp
+#'   \item dose
+#'   \item length
+#' }
+#'
+#' @docType data
+#' @name tg
+#' @usage tg
+#'
+#' @seealso \code{\link[datasets]{ToothGrowth}}
+NULL
