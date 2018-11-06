@@ -6,8 +6,7 @@
 \title{Age distribution of population in the United States, 1900-2002}
 \source{
 U.S. Census Bureau, Statistical Abstract of the United States, 2003, HS-3:
-    \url{http://www.census.gov/statab/hist/HS-03.pdf} and
-    \url{www.census.gov/statab/hist/02HS0003.xls}.
+    \url{http://www2.census.gov/library/publications/2004/compendia/statab/123ed/hist/hs-03.pdf}
 }
 \usage{
 uspopage

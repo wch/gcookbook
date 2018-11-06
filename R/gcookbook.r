@@ -89,7 +89,7 @@ NULL
 #' @usage climate
 #'
 #' @source
-#'   Berkeley Earth Project: \url{http://berkeleyearth.org/dataset/}
+#'   Berkeley Earth Project: \url{http://berkeleyearth.org/land-and-ocean-data/}
 #'
 #'   Climatic Research Unit (CRUTEM3): \url{http://www.cru.uea.ac.uk/cru/data/temperature/}
 #'
@@ -455,8 +455,7 @@ NULL
 #'
 #' @source
 #'   U.S. Census Bureau, Statistical Abstract of the United States, 2003, HS-3:
-#'     \url{http://www.census.gov/statab/hist/HS-03.pdf} and
-#'     \url{www.census.gov/statab/hist/02HS0003.xls}.
+#'     \url{http://www2.census.gov/library/publications/2004/compendia/statab/123ed/hist/hs-03.pdf}
 NULL
 
 
@@ -479,7 +478,7 @@ NULL
 #'
 #' @source
 #'  U.S. Census Bureau, Statistical Abstract of the United States, 2012, Table 14.
-#'    \url{http://www.census.gov/compendia/statab/2012/tables/12s0014.pdf}
+#'    \url{https://www2.census.gov/library/publications/2011/compendia/statab/131ed/2012-statab.pdf}
 NULL
 
 

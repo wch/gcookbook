@@ -6,7 +6,7 @@
 \title{Change in population of states in the U.S. between 2000 and 2010}
 \source{
 U.S. Census Bureau, Statistical Abstract of the United States, 2012, Table 14.
-   \url{http://www.census.gov/compendia/statab/2012/tables/12s0014.pdf}
+   \url{https://www2.census.gov/library/publications/2011/compendia/statab/131ed/2012-statab.pdf}
 }
 \usage{
 uspopchange

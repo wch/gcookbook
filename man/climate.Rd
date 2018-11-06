@@ -5,7 +5,7 @@
 \alias{climate}
 \title{Global climate temperature anomaly data from 1800 to 2011}
 \source{
-Berkeley Earth Project: \url{http://berkeleyearth.org/dataset/}
+Berkeley Earth Project: \url{http://berkeleyearth.org/land-and-ocean-data/}
 
   Climatic Research Unit (CRUTEM3): \url{http://www.cru.uea.ac.uk/cru/data/temperature/}
 
