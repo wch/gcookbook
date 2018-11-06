@@ -1,5 +1,6 @@
-gcookbook.sublime-project
-gcookbook.sublime-workspace
 orig
-^gcookbook\.Rproj$
+^.*\.sublime-.*$
+^.*\.Rproj$
 ^\.Rproj\.user$
+^.git$
+^tools$
