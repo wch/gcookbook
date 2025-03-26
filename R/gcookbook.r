@@ -4,9 +4,8 @@
 #' by Winston Chang, published by O'Reilly Media.
 #'
 #' @name gcookbook
-#' @docType package
 #' @aliases gcookbook package-gcookbook
-NULL
+"_PACKAGE"
 
 #' Apple stock data
 #'
@@ -56,7 +55,7 @@ NULL
 #' Summary of cabbages data set
 #'
 #' This data set has groupwise means, standard deviations, counts, and standard
-#' error of the mean for the \code{\link{cabbages}} data set from the MASS
+#' error of the mean for the \code{\link[MASS]{cabbages}} data set from the MASS
 #' package. The purpose of this summarized data set is to make it easy to use
 #' for example graphs.
 #'

@@ -9,7 +9,7 @@ cabbage_exp
 }
 \description{
 This data set has groupwise means, standard deviations, counts, and standard
-error of the mean for the \code{\link{cabbages}} data set from the MASS
+error of the mean for the \code{\link[MASS]{cabbages}} data set from the MASS
 package. The purpose of this summarized data set is to make it easy to use
 for example graphs.
 }
