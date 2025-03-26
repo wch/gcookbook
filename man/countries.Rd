@@ -5,7 +5,7 @@
 \alias{countries}
 \title{Health and economic data about countries around the world from 1960-2010}
 \source{
-World Bank: \url{http://data.worldbank.org/}
+World Bank: \url{https://data.worldbank.org/}
 }
 \usage{
 countries

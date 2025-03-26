@@ -7,7 +7,7 @@
 \source{
 \url{http://vis.computer.org/vis2004contest/data.html}
 
-  \url{http://ncar.ucar.edu/}
+  \url{https://ncar.ucar.edu/}
 }
 \usage{
 isabel

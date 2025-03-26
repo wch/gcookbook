@@ -10,3 +10,7 @@
 This package contains data sets used in the book "R Graphics Cookbook"
 by Winston Chang, published by O'Reilly Media.
 }
+\author{
+\strong{Maintainer}: Winston Chang \email{winston@stdout.org}
+
+}

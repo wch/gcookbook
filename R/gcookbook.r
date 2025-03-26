@@ -91,9 +91,9 @@ NULL
 #' @source
 #'   Berkeley Earth Project: \url{http://berkeleyearth.org/land-and-ocean-data/}
 #'
-#'   Climatic Research Unit (CRUTEM3): \url{http://www.cru.uea.ac.uk/cru/data/temperature/}
+#'   Climatic Research Unit (CRUTEM3): \url{https://crudata.uea.ac.uk/cru/data/crutem3/}
 #'
-#'   NASA: \url{http://data.giss.nasa.gov/gistemp/}
+#'   NASA: \url{https://data.giss.nasa.gov/gistemp/}
 #'
 NULL
 
@@ -142,7 +142,7 @@ NULL
 #' @usage countries
 #'
 #' @source
-#'   World Bank: \url{http://data.worldbank.org/}
+#'   World Bank: \url{https://data.worldbank.org/}
 NULL
 
 
@@ -212,7 +212,7 @@ NULL
 #' @source
 #'   \url{http://vis.computer.org/vis2004contest/data.html}
 #'
-#'   \url{http://ncar.ucar.edu/}
+#'   \url{https://ncar.ucar.edu/}
 #'
 NULL
 
