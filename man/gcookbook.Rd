@@ -2,9 +2,9 @@
 % Please edit documentation in R/gcookbook.r
 \docType{package}
 \name{gcookbook}
+\alias{gcookbook-package}
 \alias{gcookbook}
 \alias{package-gcookbook}
-\alias{gcookbook-package}
 \title{gcookbook: Data sets for "R Graphics Cookbook"}
 \description{
 This package contains data sets used in the book "R Graphics Cookbook"

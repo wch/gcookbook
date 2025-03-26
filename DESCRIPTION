@@ -2,8 +2,10 @@ Package: gcookbook
 Type: Package
 Title: Data for "R Graphics Cookbook"
 Version: 2.0
-Author: Winston Chang
-Maintainer: Winston Chang <winston@stdout.org>
+Authors@R: person(given = "Winston",
+    family = "Chang",
+    role = c("aut", "cre"),
+    email = "winston@stdout.org")
 Description: Data sets used in the book "R Graphics Cookbook" by Winston
     Chang, published by O'Reilly Media.
 License: GPL-2
@@ -12,4 +14,4 @@ Depends:
     R (>= 2.10)
 Collate:
     'gcookbook.r'
-RoxygenNote: 6.1.0.9000
+RoxygenNote: 7.3.2

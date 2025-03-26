@@ -64,7 +64,7 @@ NULL
 #' @name cabbage_exp
 #' @usage cabbage_exp
 #'
-#' @seealso The source data set in the MASS package, \code{\link{cabbages}}.
+#' @seealso The source data set in the MASS package, \code{\link[MASS]{cabbages}}.
 NULL
 
 

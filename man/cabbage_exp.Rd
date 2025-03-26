@@ -14,5 +14,5 @@ package. The purpose of this summarized data set is to make it easy to use
 for example graphs.
 }
 \seealso{
-The source data set in the MASS package, \code{\link{cabbages}}.
+The source data set in the MASS package, \code{\link[MASS]{cabbages}}.
 }
