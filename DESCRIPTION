@@ -1,7 +1,7 @@
 Package: gcookbook
 Type: Package
 Title: Data for "R Graphics Cookbook"
-Version: 2.0
+Version: 2.0.1
 Authors@R: person(given = "Winston",
     family = "Chang",
     role = c("aut", "cre"),
